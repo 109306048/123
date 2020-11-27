@@ -10,6 +10,7 @@ public class Lab3 {
 	b=8;
 	c=5.8;
 	d=8.5;
+	e=5;
 	
 	System.out.println("number a="+a);
 	System.out.println("number b="+b);
